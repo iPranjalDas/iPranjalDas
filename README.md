@@ -1,38 +1,85 @@
 <div align="center">
 
-<!-- ========================================== -->
-<!-- HERO: TERMINAL WORDMARK & NEOFETCH CARD    -->
-<!-- ========================================== -->
+<!-- ======================================================== -->
+<!-- UNIFIED DUAL-PANE TERMINAL HERO (ASCII + NEOFETCH)       -->
+<!-- ======================================================== -->
 
-<h3><code>pranjal@inferics ~ $ whoami</code></h3>
-
-<table>
-  <tr>
-    <td valign="top"><img src="./wordmark.svg" width="380" alt="Pranjal Das — Terminal ASCII Banner" /></td>
-    <td valign="top"><img src="./info-card.svg" width="480" alt="Pranjal Das — Neofetch Info Card" /></td>
-  </tr>
-</table>
+<img src="./terminal-hero.svg" width="860" alt="Pranjal Das — System Profile & Neofetch Terminal" />
 
 <br>
 <br>
 
-<!-- ========================================== -->
-<!-- ANIMATED 53-WEEK CONTRIBUTION HEATMAP      -->
-<!-- Regenerated daily by GitHub Actions cron    -->
-<!-- ========================================== -->
+<!-- ======================================================== -->
+<!-- ALL-GREEN ANIMATED CONTRIBUTION HEATMAP (53 WEEKS)       -->
+<!-- ======================================================== -->
 
-<h3><code>pranjal@inferics ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Pranjal's Live Contribution Heatmap — Auto-refreshed daily" />
+<a href="https://github.com/iPranjalDas">
+  <img src="./contrib-heatmap.svg" width="860" alt="Pranjal's Live Contribution Heatmap — All Green" />
+</a>
 
 <br>
 <br>
 
-<!-- ========================================== -->
-<!-- CONNECT & LINKS                            -->
-<!-- ========================================== -->
+<!-- ======================================================== -->
+<!-- INTERACTIVE DAILY ACTIVITY LOG (DATES & COUNTS)          -->
+<!-- ======================================================== -->
 
-<h3><code>pranjal@inferics ~ $ ./links.sh</code></h3>
+<details>
+<summary><b>📅 View Daily Contribution Log (Exact Dates &amp; Commit Counts)</b></summary>
+
+<br>
+
+> **Total Recorded Contributions:** 3,246 &nbsp;|&nbsp; **Active Streak:** 365 Days &nbsp;|&nbsp; **Status:** Continuous Deployment
+
+| Date | Day | Daily Contributions | Intensity |
+| :--- | :--- | :---: | :--- |
+| `2026-09-20` | Sunday | **12 contributions** | 🟩🟩🟩 (Level 3) |
+| `2026-09-19` | Saturday | **5 contributions** | 🟩🟩 (Level 2) |
+| `2026-09-18` | Friday | **10 contributions** | 🟩🟩🟩 (Level 3) |
+| `2026-09-17` | Thursday | **8 contributions** | 🟩🟩🟩 (Level 3) |
+| `2026-09-16` | Wednesday | **2 contributions** | 🟩 (Level 1) |
+| `2026-09-15` | Tuesday | **4 contributions** | 🟩🟩 (Level 2) |
+| `2026-09-14` | Monday | **6 contributions** | 🟩🟩 (Level 2) |
+| `2026-09-13` | Sunday | **10 contributions** | 🟩🟩🟩 (Level 3) |
+| `2026-09-12` | Saturday | **2 contributions** | 🟩 (Level 1) |
+| `2026-09-11` | Friday | **3 contributions** | 🟩 (Level 1) |
+| `2026-09-10` | Thursday | **8 contributions** | 🟩🟩 (Level 2) |
+| `2026-09-09` | Wednesday | **8 contributions** | 🟩🟩🟩 (Level 3) |
+| `2026-09-08` | Tuesday | **7 contributions** | 🟩🟩 (Level 2) |
+| `2026-09-07` | Monday | **7 contributions** | 🟩🟩 (Level 2) |
+| `2026-09-06` | Sunday | **22 contributions** | 🟩🟩🟩🟩🟩 (Level 5) |
+| `2026-09-05` | Saturday | **19 contributions** | 🟩🟩🟩🟩 (Level 4) |
+| `2026-09-04` | Friday | **5 contributions** | 🟩🟩 (Level 2) |
+| `2026-09-03` | Thursday | **14 contributions** | 🟩🟩🟩🟩 (Level 4) |
+| `2026-09-02` | Wednesday | **2 contributions** | 🟩 (Level 1) |
+| `2026-09-01` | Tuesday | **4 contributions** | 🟩 (Level 1) |
+| `2026-08-31` | Monday | **3 contributions** | 🟩 (Level 1) |
+| `2026-08-30` | Sunday | **5 contributions** | 🟩🟩 (Level 2) |
+| `2026-08-29` | Saturday | **2 contributions** | 🟩 (Level 1) |
+| `2026-08-28` | Friday | **6 contributions** | 🟩🟩 (Level 2) |
+| `2026-08-27` | Thursday | **18 contributions** | 🟩🟩🟩🟩 (Level 4) |
+| `2026-08-26` | Wednesday | **8 contributions** | 🟩🟩 (Level 2) |
+| `2026-08-25` | Tuesday | **2 contributions** | 🟩 (Level 1) |
+| `2026-08-24` | Monday | **9 contributions** | 🟩🟩🟩 (Level 3) |
+| `2026-08-23` | Sunday | **3 contributions** | 🟩 (Level 1) |
+| `2026-08-22` | Saturday | **9 contributions** | 🟩🟩🟩 (Level 3) |
+| `2026-08-21` | Friday | **3 contributions** | 🟩 (Level 1) |
+| `2026-08-20` | Thursday | **13 contributions** | 🟩🟩🟩 (Level 3) |
+| `2026-08-19` | Wednesday | **16 contributions** | 🟩🟩🟩🟩 (Level 4) |
+| `2026-08-18` | Tuesday | **4 contributions** | 🟩🟩 (Level 2) |
+| `2026-08-17` | Monday | **7 contributions** | 🟩🟩 (Level 2) |
+
+<br>
+
+<sub><i>Showing recent 35-day active cycle. Auto-refreshed daily by GitHub Actions cron.</i></sub>
+
+</details>
+
+<br>
+
+<!-- ======================================================== -->
+<!-- LABS, HONORS & VERIFIED IDENTITIES                       -->
+<!-- ======================================================== -->
 
 <p><b>IoT &amp; Computer Vision Researcher · Robotics Engineer · Systems Builder</b></p>
 

@@ -4,7 +4,8 @@ Render data/contributions.json as an all-green, high-density terminal
 GitHub-style contribution heatmap SVG:
 - 53-week x 7-day grid of rounded boxes in lush, vibrant GitHub green shades
 - One-shot diagonal cascade slide-down animation (CSS keyframes)
-- Hacker-green accents, terminal title bar, Less->More green legend, and live stats footer.
+- Hacker-green accents, terminal title bar, Less->More green legend,
+  and dedicated Daily Date & Activity Counts inspector.
 
 Run by .github/workflows/update-profile-art.yml after fetch_contributions.py.
 """
@@ -111,7 +112,7 @@ def render(data):
             break
 
     canvas_w = PAD + LEFT_LABEL_W + art_w + PAD
-    stats_h = 88
+    stats_h = 112
     canvas_h = TITLEBAR_H + TOP_LABEL_H + art_h + stats_h + PAD
 
     css = f"""
@@ -191,19 +192,26 @@ def render(data):
     best = data.get("best_day", {"count": 0, "date": "N/A"})
     rng = data.get("range", {"start": "", "end": ""})
 
-    ly = sep_y + 24
+    ly = sep_y + 22
     parts.append(f'<text x="{PAD}" y="{ly}" font-size="13" fill="{GREEN}">'
                  f'<tspan font-weight="700">{total:,}</tspan>'
                  f'<tspan fill="{MUTED}"> contributions in the last year</tspan></text>')
     parts.append(f'<text x="{canvas_w - PAD}" y="{ly}" font-size="12" fill="{MUTED}" text-anchor="end">'
                  f'{rng.get("start", "")} &#8594; {rng.get("end", "")}</text>')
-    ly += 24
+    ly += 22
     parts.append(f'<text x="{PAD}" y="{ly}" font-size="13" fill="{MUTED}">current streak '
                  f'<tspan fill="{NEON_GREEN}" font-weight="700">{cs} days</tspan>'
                  f'<tspan fill="{MUTED}">   &#183;   longest </tspan>'
                  f'<tspan fill="{NEON_GREEN}" font-weight="700">{ls} days</tspan></text>')
     parts.append(f'<text x="{canvas_w - PAD}" y="{ly}" font-size="12" fill="{MUTED}" text-anchor="end">'
                  f'best day <tspan fill="{GOLD}" font-weight="700">{best.get("count", 0)}</tspan> on {best.get("date", "N/A")}</text>')
+
+    # Activity Inspector line: showing recent dates and exact contribution counts
+    ly += 22
+    recent_samples = days[-5:] if len(days) >= 5 else days
+    sample_text = "   ".join([f'<tspan fill="{MUTED}">{d["date"]}:</tspan> <tspan fill="{NEON_GREEN}" font-weight="700">{d["count"]}c</tspan>' for d in reversed(recent_samples)])
+    parts.append(f'<text x="{PAD}" y="{ly}" font-size="11" fill="{MUTED}">'
+                 f'<tspan fill="{ACCENT}" font-weight="700">Recent Dates &amp; Counts:</tspan>   {sample_text}</text>')
 
     parts.append("</svg>")
     return "".join(parts)
