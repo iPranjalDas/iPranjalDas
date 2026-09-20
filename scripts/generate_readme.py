@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """
 Generate README.md for iPranjalDas profile:
-- Removes shell prompts (whoami, contributions.sh) as requested
-- Places the unified 860px dual-pane terminal-hero.svg (zero table borders)
-- Places the all-green 860px contrib-heatmap.svg
-- Adds interactive collapsible daily activity log with exact dates and contribution numbers
-- Connect badges & bio
+- Clean terminal hero (terminal-hero.svg, 860px) with NO prompt headings
+- All-green animated contribution heatmap (contrib-heatmap.svg, 860px)
+- Native Interactive Hover Tooltip Grid: every cell displays tooltip on mouse hover
+  showing the exact date and number of contributions (e.g., '2026-09-20: 12 contributions')
+- Collapsible detailed table of all recent dates and activity numbers
+- Verified badges & bio
 """
 import datetime
 import json
@@ -27,12 +28,34 @@ def generate():
             total = data.get("total_contributions", total)
             streak = data.get("current_streak", {}).get("length", streak)
 
+    # Build interactive hover grid (weeks row-by-row with native markdown tooltips)
+    # 7 days per row for the last 5 weeks
+    recent_days = days[-35:] if len(days) >= 35 else days
+    hover_rows = []
+    
+    # Header for interactive hover grid
+    hover_grid_header = "**Hover over any cell below to view the exact date and contributions count:**\n\n"
+    
+    grid_lines = []
+    # Divide recent_days into chunks of 7 (one row per week)
+    for i in range(0, len(recent_days), 7):
+        chunk = recent_days[i:i+7]
+        row_str = " &nbsp; ".join([
+            f'[{ "🟩" if d.get("level", 1) < 4 else "🟢" }](https://github.com/iPranjalDas "{d["date"]}: {d["count"]} contribution{"s" if d["count"]!=1 else ""}")'
+            for d in chunk
+        ])
+        start_d = chunk[0]["date"]
+        end_d = chunk[-1]["date"]
+        grid_lines.append(f"`{start_d}` &nbsp; {row_str} &nbsp; `{end_d}`")
+
+    interactive_hover_block = "\n<br>\n".join(grid_lines)
+
     # Build daily log table for recent 35 days
     table_lines = [
         "| Date | Day | Daily Contributions | Intensity |",
         "| :--- | :--- | :---: | :--- |",
     ]
-    for d in reversed(days[-35:]):
+    for d in reversed(recent_days):
         dt = datetime.date.fromisoformat(d["date"])
         wname = dt.strftime("%A")
         lvl = d.get("level", 1)
@@ -57,9 +80,21 @@ def generate():
 <!-- ALL-GREEN ANIMATED CONTRIBUTION HEATMAP (53 WEEKS)       -->
 <!-- ======================================================== -->
 
-<a href="https://github.com/iPranjalDas">
+<a href="./contrib-heatmap.svg" title="Click to open standalone SVG with native element inspection">
   <img src="./contrib-heatmap.svg" width="860" alt="Pranjal's Live Contribution Heatmap — All Green" />
 </a>
+
+<br>
+<br>
+
+<!-- ======================================================== -->
+<!-- NATIVE HOVER TOOLTIP CALENDAR GRID                       -->
+<!-- Hover over any cell to see: Date + Number of Commits     -->
+<!-- ======================================================== -->
+
+<p><b>🖱️ Interactive Calendar Matrix (Hover each cell for Date &amp; Commits count):</b></p>
+
+{interactive_hover_block}
 
 <br>
 <br>
@@ -69,7 +104,7 @@ def generate():
 <!-- ======================================================== -->
 
 <details>
-<summary><b>📅 View Daily Contribution Log (Exact Dates &amp; Commit Counts)</b></summary>
+<summary><b>📅 View Complete Daily Activity Log (Exact Dates &amp; Commit Counts)</b></summary>
 
 <br>
 
@@ -102,7 +137,7 @@ def generate():
 """
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(content.strip() + "\n")
-    print(f"Wrote {README_PATH}")
+    print(f"Wrote {README_PATH} with interactive hover tooltips")
 
 
 if __name__ == "__main__":

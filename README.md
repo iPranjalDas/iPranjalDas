@@ -13,9 +13,29 @@
 <!-- ALL-GREEN ANIMATED CONTRIBUTION HEATMAP (53 WEEKS)       -->
 <!-- ======================================================== -->
 
-<a href="https://github.com/iPranjalDas">
+<a href="./contrib-heatmap.svg" title="Click to open standalone SVG with native element inspection">
   <img src="./contrib-heatmap.svg" width="860" alt="Pranjal's Live Contribution Heatmap — All Green" />
 </a>
+
+<br>
+<br>
+
+<!-- ======================================================== -->
+<!-- NATIVE HOVER TOOLTIP CALENDAR GRID                       -->
+<!-- Hover over any cell to see: Date + Number of Commits     -->
+<!-- ======================================================== -->
+
+<p><b>🖱️ Interactive Calendar Matrix (Hover each cell for Date &amp; Commits count):</b></p>
+
+`2026-08-17` &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-17: 7 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-18: 4 contributions") &nbsp; [🟢](https://github.com/iPranjalDas "2026-08-19: 16 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-20: 13 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-21: 3 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-22: 9 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-23: 3 contributions") &nbsp; `2026-08-23`
+<br>
+`2026-08-24` &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-24: 9 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-25: 2 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-26: 8 contributions") &nbsp; [🟢](https://github.com/iPranjalDas "2026-08-27: 18 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-28: 6 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-29: 2 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-30: 5 contributions") &nbsp; `2026-08-30`
+<br>
+`2026-08-31` &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-31: 3 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-01: 4 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-02: 2 contributions") &nbsp; [🟢](https://github.com/iPranjalDas "2026-09-03: 14 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-04: 5 contributions") &nbsp; [🟢](https://github.com/iPranjalDas "2026-09-05: 19 contributions") &nbsp; [🟢](https://github.com/iPranjalDas "2026-09-06: 22 contributions") &nbsp; `2026-09-06`
+<br>
+`2026-09-07` &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-07: 7 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-08: 7 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-09: 8 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-10: 8 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-11: 3 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-12: 2 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-13: 10 contributions") &nbsp; `2026-09-13`
+<br>
+`2026-09-14` &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-14: 6 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-15: 4 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-16: 2 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-17: 8 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-18: 10 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-19: 5 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-20: 12 contributions") &nbsp; `2026-09-20`
 
 <br>
 <br>
@@ -25,7 +45,7 @@
 <!-- ======================================================== -->
 
 <details>
-<summary><b>📅 View Daily Contribution Log (Exact Dates &amp; Commit Counts)</b></summary>
+<summary><b>📅 View Complete Daily Activity Log (Exact Dates &amp; Commit Counts)</b></summary>
 
 <br>
 
