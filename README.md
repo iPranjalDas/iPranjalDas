@@ -27,15 +27,15 @@
 
 <p><b>🖱️ Interactive Calendar Matrix (Hover each cell for Date &amp; Commits count):</b></p>
 
-`2026-08-17` &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-17: 7 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-18: 4 contributions") &nbsp; [🟢](https://github.com/iPranjalDas "2026-08-19: 16 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-20: 13 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-21: 3 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-22: 9 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-23: 3 contributions") &nbsp; `2026-08-23`
+`2026-08-18` &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-18: 4 contributions") &nbsp; [🟢](https://github.com/iPranjalDas "2026-08-19: 16 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-20: 13 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-21: 3 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-22: 9 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-23: 3 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-24: 9 contributions") &nbsp; `2026-08-24`
 <br>
-`2026-08-24` &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-24: 9 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-25: 2 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-26: 8 contributions") &nbsp; [🟢](https://github.com/iPranjalDas "2026-08-27: 18 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-28: 6 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-29: 2 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-30: 5 contributions") &nbsp; `2026-08-30`
+`2026-08-25` &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-25: 2 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-26: 8 contributions") &nbsp; [🟢](https://github.com/iPranjalDas "2026-08-27: 18 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-28: 6 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-29: 2 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-30: 5 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-31: 3 contributions") &nbsp; `2026-08-31`
 <br>
-`2026-08-31` &nbsp; [🟩](https://github.com/iPranjalDas "2026-08-31: 3 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-01: 4 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-02: 2 contributions") &nbsp; [🟢](https://github.com/iPranjalDas "2026-09-03: 14 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-04: 5 contributions") &nbsp; [🟢](https://github.com/iPranjalDas "2026-09-05: 19 contributions") &nbsp; [🟢](https://github.com/iPranjalDas "2026-09-06: 22 contributions") &nbsp; `2026-09-06`
+`2026-09-01` &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-01: 4 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-02: 2 contributions") &nbsp; [🟢](https://github.com/iPranjalDas "2026-09-03: 14 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-04: 5 contributions") &nbsp; [🟢](https://github.com/iPranjalDas "2026-09-05: 19 contributions") &nbsp; [🟢](https://github.com/iPranjalDas "2026-09-06: 22 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-07: 7 contributions") &nbsp; `2026-09-07`
 <br>
-`2026-09-07` &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-07: 7 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-08: 7 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-09: 8 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-10: 8 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-11: 3 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-12: 2 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-13: 10 contributions") &nbsp; `2026-09-13`
+`2026-09-08` &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-08: 7 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-09: 8 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-10: 8 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-11: 3 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-12: 2 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-13: 10 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-14: 6 contributions") &nbsp; `2026-09-14`
 <br>
-`2026-09-14` &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-14: 6 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-15: 4 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-16: 2 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-17: 8 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-18: 10 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-19: 5 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-20: 12 contributions") &nbsp; `2026-09-20`
+`2026-09-15` &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-15: 4 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-16: 2 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-17: 8 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-18: 10 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-19: 5 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-20: 12 contributions") &nbsp; [🟩](https://github.com/iPranjalDas "2026-09-21: 5 contributions") &nbsp; `2026-09-21`
 
 <br>
 <br>
@@ -49,10 +49,11 @@
 
 <br>
 
-> **Total Recorded Contributions:** 3,246 &nbsp;|&nbsp; **Active Streak:** 365 Days &nbsp;|&nbsp; **Status:** Continuous Deployment
+> **Total Recorded Contributions:** 3,251 &nbsp;|&nbsp; **Active Streak:** 366 Days &nbsp;|&nbsp; **Status:** Continuous Deployment
 
 | Date | Day | Daily Contributions | Intensity |
 | :--- | :--- | :---: | :--- |
+| `2026-09-21` | Monday | **5 contributions** | 🟩🟩 (Level 2) |
 | `2026-09-20` | Sunday | **12 contributions** | 🟩🟩🟩 (Level 3) |
 | `2026-09-19` | Saturday | **5 contributions** | 🟩🟩 (Level 2) |
 | `2026-09-18` | Friday | **10 contributions** | 🟩🟩🟩 (Level 3) |
@@ -87,7 +88,6 @@
 | `2026-08-20` | Thursday | **13 contributions** | 🟩🟩🟩 (Level 3) |
 | `2026-08-19` | Wednesday | **16 contributions** | 🟩🟩🟩🟩 (Level 4) |
 | `2026-08-18` | Tuesday | **4 contributions** | 🟩🟩 (Level 2) |
-| `2026-08-17` | Monday | **7 contributions** | 🟩🟩 (Level 2) |
 
 <br>
 
