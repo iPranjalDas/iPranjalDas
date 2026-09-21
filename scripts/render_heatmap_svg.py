@@ -120,7 +120,7 @@ def render(data):
   0%   {{ opacity: 0; transform: translateY(-7px) scale(0.9); }}
   100% {{ opacity: 1; transform: translateY(0) scale(1); }}
 }}
-.c {{ opacity: 0; animation: cell {CELL_DUR:.2f}s cubic-bezier(.2,.8,.2,1) forwards; }}
+.c {{ animation: cell {CELL_DUR:.2f}s cubic-bezier(.2,.8,.2,1) backwards; }}
 """.strip()
 
     parts = [
