@@ -153,7 +153,7 @@
   <line x1="715" y1="75" x2="1200" y2="75" stroke="#30363d" stroke-dasharray="3,3" stroke-opacity="0.5"/>
 </g>
 <g class="fade-in" style="animation-delay:0.14s"><text x="715" y="98" font-size="12.5" fill="#ffa657">OS</text><text x="825" y="98" font-size="12.5" fill="#c9d1d9">Arch Linux / WSL2 (x86_64)</text></g>
-<g class="fade-in" style="animation-delay:0.17s"><text x="715" y="122" font-size="12.5" fill="#ffa657">Host</text><text x="825" y="122" font-size="12.5" fill="#c9d1d9">VoltDeck (Ryzen 7 7445HS · RTX 3050)</text></g>
+<g class="fade-in" style="animation-delay:0.17s"><text x="715" y="122" font-size="12.5" fill="#ffa657">Host</text><text x="825" y="122" font-size="12.5" fill="#c9d1d9">VoltDeck</text></g>
 <g class="fade-in" style="animation-delay:0.20s"><text x="715" y="146" font-size="12.5" fill="#ffa657">Kernel</text><text x="825" y="146" font-size="12.5" fill="#c9d1d9">6.18.33.2-microsoft-standard-WSL2</text></g>
 <g class="fade-in" style="animation-delay:0.23s"><text x="715" y="170" font-size="12.5" fill="#ffa657">Terminal</text><text x="825" y="170" font-size="12.5" fill="#c9d1d9">Kitty / Alacritty (Cyberpunk Cyan)</text></g>
 <g class="fade-in" style="animation-delay:0.26s"><text x="715" y="206" font-size="12" font-weight="700" fill="#58a6ff">&#9472;&#9472; Research &amp; Honors &#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;</text></g>
@@ -167,7 +167,7 @@
 <g class="fade-in" style="animation-delay:0.50s"><text x="715" y="410" font-size="12.5" fill="#ffa657">Embedded</text><text x="825" y="410" font-size="12.5" fill="#c9d1d9">ESP32, Arduino, Raspberry Pi, Robotics</text></g>
 <g class="fade-in" style="animation-delay:0.53s"><text x="715" y="434" font-size="12.5" fill="#ffa657">Systems</text><text x="825" y="434" font-size="12.5" fill="#c9d1d9">Linux Kernel / WSL2, Docker, Sysinternals</text></g>
 <g class="fade-in" style="animation-delay:0.56s"><text x="715" y="470" font-size="12" font-weight="700" fill="#58a6ff">&#9472;&#9472; Primary Hardware Rig &amp; Infra &#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;</text></g>
-<g class="fade-in" style="animation-delay:0.59s"><circle cx="723" cy="492" r="3.5" fill="#3fb950"/><text x="738" y="496" font-size="12.5" fill="#c9d1d9">VoltDeck: AMD Ryzen 7 7445HS · RTX 3050 6GB</text></g>
+<g class="fade-in" style="animation-delay:0.59s"><circle cx="723" cy="492" r="3.5" fill="#3fb950"/><text x="738" y="496" font-size="12.5" fill="#c9d1d9">VoltDeck: Dedicated Autonomous Station</text></g>
 <g class="fade-in" style="animation-delay:0.62s"><circle cx="723" cy="518" r="3.5" fill="#3fb950"/><text x="738" y="522" font-size="12.5" fill="#c9d1d9">Autonomous 24/7 Cloud Architecture</text></g>
 <g class="fade-in" style="animation-delay:0.65s"><circle cx="723" cy="544" r="3.5" fill="#3fb950"/><text x="738" y="548" font-size="12.5" fill="#c9d1d9">Custom Paging &amp; Memory Sentinel Protocol</text></g>
 <g class="fade-in" style="animation-delay:0.68s"><circle cx="723" cy="570" r="3.5" fill="#3fb950"/><text x="738" y="574" font-size="12.5" fill="#c9d1d9">Ultra-Precision 174-Col Matrix ASCII Rendering</text></g>
